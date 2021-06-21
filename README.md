@@ -1,2 +1,2 @@
-# Hello_NERC
-First test (delete it)
+Welcome to New Energy Research Group GIT.
+
